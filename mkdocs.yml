@@ -1,0 +1,17 @@
+site_name: "Deno: Instalação no Windows"
+site_author: Jurandy Soares
+
+theme:
+  #name: material
+  name: readthedocs
+  language: pt
+
+nav:
+  - index.md
+  - como-instalar.md
+  - interpretador.md  
+  - teste-vscode.md
+  - fim.md
+
+markdown_extensions:
+  - footnotes
