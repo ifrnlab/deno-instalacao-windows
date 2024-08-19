@@ -14,6 +14,16 @@ To specify permissions, run `deno repl` with allow flags.
 >
 ```
 
+Tradução da saída:
+
+```
+Deno 1.45.5
+Saia usando Ctrl+D, Ctrl+C ou close()
+O REPL está em execução com todas as permissões liberadas.
+Para especificar permissões, execute `deno repl` com sinalizadores de permissão.
+>
+```
+
 Observe o símbolo `>` na última linha. Ele indica que você pode digitar instruções de JavaScript e de TypeScript que você quiser.
 
 Para encerrar o interpretador, execute a função `close()`:
